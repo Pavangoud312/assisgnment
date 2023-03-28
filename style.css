@@ -8,7 +8,7 @@
 
 .container {
     border: 1px solid #000;
-    background-color: #95E1D3;
+    background-color: #15ba68;
 }
 
 h3 {
@@ -19,7 +19,7 @@ h3 {
     border-bottom: 1px solid #000;
     border-left: 1px solid #000;
     font-size: 125%;
-    background-color: #EAFFD0;
+    background-color: #768a0d;
 }
 
 h1 {
@@ -33,6 +33,8 @@ p {
     clear: right;
     font-size: 100%;
 }
+body {
+   background-color: #36ba15
 
 /*Style in large screen*/
 @media (min-width: 992px) {
